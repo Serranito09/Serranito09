@@ -1,6 +1,6 @@
 ## Hello there! I'm Alvaro 👋
 
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-emilio-pérez-lópez-590725211/)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-serrano-lop%C3%A9z-98058125a//)
 [![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/serranoo71)
 
 I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [University of Córdoba](http://www.uco.es/).

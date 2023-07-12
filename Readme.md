@@ -5,8 +5,9 @@
 
 I'm from Córdoba, Spain. I'm currently studying Computer Engineering at the [University of Córdoba](http://www.uco.es/).
 
-I've been collaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since 2021. 
-In  2023(https://salmorejo.tech/2023/) I was part of the organization team of Salmorejo Tech, one of the most important conferences in the technology sector in Cordoba. We will have to be attentive to see what the following ones have in store for us...😉🍅
+I've been collaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since 2021, where I have been able to work on exciting projects and learn from experienced developers. 
+In 2023, I was part of the organization team of [Salmorejo Tech](https://salmorejo.tech/2023/), one of the most important conferences in the technology sector in Cordoba. It was an amazing experience to be part of such a great event, and I am looking forward to seeing what the future holds for Salmorejo Tech🍅.
+
 <br>
 
 ## 🛠 Technologies, tools and languages
